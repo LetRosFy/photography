@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99f9849e.css",
+    "main.js": "/static/js/main.7d496c4d.js",
+    "static/media/title.png": "/static/media/title.dd0c221c73a5ef7dba15.png",
+    "static/media/5.5.png": "/static/media/5.5.8e2e9461e408f9fbad57.png",
+    "static/media/5.png": "/static/media/5.78a316c12181ba723b1d.png",
+    "static/media/me.png": "/static/media/me.7caac7bf2a600174dcc1.png",
+    "static/media/bookantiqua.ttf": "/static/media/bookantiqua.bb09cf8f21ab2aaa2260.ttf",
+    "static/media/Lighthaus.otf": "/static/media/Lighthaus.36df68f1ac523a9c34ff.otf",
+    "index.html": "/index.html",
+    "main.99f9849e.css.map": "/static/css/main.99f9849e.css.map",
+    "main.7d496c4d.js.map": "/static/js/main.7d496c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f9849e.css",
+    "static/js/main.7d496c4d.js"
+  ]
+}
